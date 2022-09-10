@@ -1,0 +1,15 @@
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\bin\Debug\net6.0\Example012_methods.exe
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\bin\Debug\net6.0\Example012_methods.deps.json
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\bin\Debug\net6.0\Example012_methods.runtimeconfig.json
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\bin\Debug\net6.0\Example012_methods.dll
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\bin\Debug\net6.0\Example012_methods.pdb
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.csproj.AssemblyReference.cache
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.AssemblyInfoInputs.cache
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.AssemblyInfo.cs
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.csproj.CoreCompileInputs.cache
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.dll
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\refint\Example012_methods.dll
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.pdb
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\Example012_methods.genruntimeconfig.cache
+C:\Users\Мира\Desktop\111\Examples\Example012_methods\obj\Debug\net6.0\ref\Example012_methods.dll
