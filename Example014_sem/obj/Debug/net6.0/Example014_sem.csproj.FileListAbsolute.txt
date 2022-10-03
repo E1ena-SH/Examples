@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\bin\Debug\net6.0\Example014_sem.exe
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\bin\Debug\net6.0\Example014_sem.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\bin\Debug\net6.0\Example014_sem.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\bin\Debug\net6.0\Example014_sem.dll
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\bin\Debug\net6.0\Example014_sem.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.dll
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\refint\Example014_sem.dll
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\Example014_sem.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\repo\Examples\Example014_sem\obj\Debug\net6.0\ref\Example014_sem.dll
